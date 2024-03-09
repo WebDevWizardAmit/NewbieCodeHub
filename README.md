@@ -1,4 +1,4 @@
 # NewbieCodeHub
 This is my first git repository.
 <br>
-Author - Amit Nagakoti
+Author - Amit Nagarkoti (web developer).
